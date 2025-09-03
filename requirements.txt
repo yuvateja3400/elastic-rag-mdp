@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+streamlit
+pydantic
+elasticsearch
+sentence-transformers
+PyMuPDF
+python-dotenv
